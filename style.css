@@ -249,9 +249,9 @@ a:visited {
   color: #99df58;     
 }
 .menu-btn {
-  font-size: 35px;
+  font-size: 30px;
   cursor: pointer;
-  color: #ffffff; 
+  color: #ffffff !important; 
 }
 .menu-btn:hover {
   color: #ffffff; 
