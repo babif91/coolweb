@@ -221,14 +221,14 @@ img {vertical-align: middle; border-radius: 0px;}
 h1 {
   font-family:  "Special Elite", system-ui;
   font-size: 36px;
-  text-align: left;
+  text-align: center;
   padding: 10px 20px 10px;
   color: #ffffff; 
 }
 h2 {
   font-family: "Lato", sans-serif;
   font-size: 18px;
-  text-align: left;
+  text-align: center;
   padding: 2px 20px 10px;
   color: #b5b5b5; 
 }
@@ -236,6 +236,7 @@ p {
   font-size: 16px;
   padding: 1px 20px 10px;
   color:#818181
+  text-align: center;
 }
 a {
   color: #99df58;    
@@ -275,3 +276,4 @@ footer {
 .site-footer { 
   margin: 0; 
 }
+
